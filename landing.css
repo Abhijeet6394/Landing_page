@@ -1,0 +1,39 @@
+body{
+margin: 0px;
+padding: 0px;
+    background: url(./abhi.jpg);
+}
+.header{
+    background-color:black
+}
+
+.logo{
+    display: inline-block;
+}
+.nav{
+    display: inline-block;
+    margin-left: 350px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 20px;
+    
+}
+.contact{
+    margin-top: 10px;
+    padding: 5px;
+    display: inline-block;
+    float: right;
+
+}
+input{
+    margin: 5px;
+}
+.content{
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 20px;
+}
